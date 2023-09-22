@@ -45,7 +45,7 @@ void printArray(std::vector<S> *v)
 
 int main(int argc, char const *argv[])
 {
-
+    std::court << "gnsdvdl" << std::endl;
 	std::vector<int> arr{ 64, 34, 25, 12, 22, 11, 90 };
 
 	std::cout << "Before Sorted array: \n";
